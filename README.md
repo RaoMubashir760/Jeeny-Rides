@@ -1,6 +1,6 @@
-Objective
+Objective: 
 The goal of this project is to do development using React, Node.js, Express, and MySQL.
-It includes the  creatation of a functional, user-centric web app that implements real-world ride matching logic.
+It includes the creatation of a functional, and user-centric web app that implements real-world ride matching logic.
 
 Tech Stack
 Frontend: React.js
